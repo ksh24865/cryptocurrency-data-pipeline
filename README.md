@@ -2,7 +2,7 @@
 실시간 시총 Top100 Crypto(암호 화폐) 시세 데이터를 수집–가공-저장-시각화 하는 파이프라인
 
 
-## output
+## Output
 ![KakaoTalk_20221107_135631163](https://user-images.githubusercontent.com/55729930/200229890-7fc17db9-a318-43c7-8162-08daffde0da1.gif)
 
 ## Detail
